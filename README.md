@@ -16,6 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/vidhu chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhu chauhan" height="30" width="40" /></a>
+<a href="https://medium.com/vidhuchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vidhuchauhan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vidhuchauhan1128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vidhuchauhan1128" height="30" width="40" /></a>
 </p>
 
