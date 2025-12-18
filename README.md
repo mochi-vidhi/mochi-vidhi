@@ -53,8 +53,8 @@ src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" />
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidhuchauhan1128&show_icons=true&theme=react" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhuchauhan1128&theme=react" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mochi-vidhi&show_icons=true&theme=react" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mochi-vidhi&theme=react" width="48%"/>
 </p>
 
 ---
